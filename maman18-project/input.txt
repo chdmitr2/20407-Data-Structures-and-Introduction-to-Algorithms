@@ -1,0 +1,14 @@
+ account id balance name
+ 2676715 8068 200 dima-chudnovsky
+ 8455819 3047 3873 ortal-marsiano
+ 6553235 2927 4674 natali-ohaiyn
+ 6862989 1148 -1574 elia-ozeri
+ 1630253 3915 32873 mordi-haziza
+ 6154260 4051 -4246 tatiana-dubrovsky
+ 4862787 8630 -4000 elena-podolsky
+ 6426392 8465 -654 yulia-levin
+ 5421187 8920 3429 nati-biton
+ 2101761 2785 2291 shai-madmon
+ 2686715 8168 0 yosi-batashvili
+ 8478819 3247 32873 avishai-rafailov
+ 
