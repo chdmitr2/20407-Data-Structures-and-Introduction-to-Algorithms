@@ -1,0 +1,2 @@
+# 20407-Data-Structures-and-Introduction-to-Algorithms
+The course is based on a translation of the first 14 chapters of Introduction to Algorithms (2nd ed.), by T.H. Cormen, C.E. Leiserson, R.L. Rivest, and C. Stein (MIT Press, 2001).  The course acquaints students with basic concepts and methods related to algorithms and data structures development. Formal criteria for analyzing an algorithmic solution to a given problem are defined.
